@@ -1,22 +1,24 @@
 about:
-  description: TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+  description:
+  |
+    TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
   license: NOASSERTION
   homepage: 
   head: 2ee2239
   archived: false
   latestVersion: v2.0.1
-  collectedAt: 2026-09-03T05:24:55Z
+  collectedAt: 2026-09-03T22:37:45Z
 timeline:
   created: 2026-04-07
   lastCommit: 2026-09-03
   lastRelease: 2026-08-25
 popularity:
-  star: 25743
+  star: 25845
   watcher: 89
-  fork: 2402
+  fork: 2410
   release: 14
   contributor: 31
-  pullRequest: 819
+  pullRequest: 827
   issue: 341
 language:
   TypeScript: 7567980
@@ -26,7 +28,7 @@ language:
   JavaScript: 20817
   Dockerfile: 20381
   HTML: 358
-totalLine: 8416309
+totalBytes: 8416309
 recent:
   last30d:
     since: 2026-08-04
