@@ -32,15 +32,15 @@ Total: **183,161** lines of code across **902** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.2` (2026-08-25)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 26,328 · **Forks**: 2,474 · **Open issues**: 364 · **Contributors**: 34
+- **Stars**: 26,358 · **Forks**: 2,481 · **Open issues**: 370 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 74 · **Open PRs**: 533 · **Closed issues**: 147 · **Open issues**: 217 · **Commits**: 34
+- **Releases**: 16 · **Merged PRs**: 77 · **Open PRs**: 539 · **Closed issues**: 147 · **Open issues**: 223 · **Commits**: 35
 
 ## Recent activity
 
@@ -62,4 +62,4 @@ Install metadata for TencentDB-Agent-Memory lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:08:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:46:14Z._

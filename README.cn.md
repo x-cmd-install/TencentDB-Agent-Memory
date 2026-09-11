@@ -32,15 +32,15 @@ x install TencentDB-Agent-Memory
 ## 发布
 
 - **最新版本**: `v1.0.2` (2026-08-25)
-- **最近提交**: 2026-09-10
+- **最近提交**: 2026-09-11
 
 ## 流行度
 
-- **Star**: 26,328 · **Fork**: 2,474 · **开放 issue**: 364 · **贡献者**: 34
+- **Star**: 26,358 · **Fork**: 2,481 · **开放 issue**: 370 · **贡献者**: 34
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 74 · **开放 PR**: 533 · **已关闭 issue**: 147 · **开放 issue**: 217 · **提交数**: 34
+- **发布数**: 16 · **已合并 PR**: 77 · **开放 PR**: 539 · **已关闭 issue**: 147 · **开放 issue**: 223 · **提交数**: 35
 
 ## 最近活动
 
@@ -62,4 +62,4 @@ TencentDB-Agent-Memory 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:08:40Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:46:14Z._
