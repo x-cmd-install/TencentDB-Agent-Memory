@@ -14,11 +14,11 @@ x install TencentDB-Agent-Memory
 
 ## Code insight
 
-Total: **183,257** lines of code across **903** files in the top 5 languages.
+Total: **183,267** lines of code across **903** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 142,470 | 39,777 | 17,515 | 735 |
+| TypeScript | 142,480 | 39,804 | 17,520 | 735 |
 | Tsx | 14,477 | 1,506 | 806 | 87 |
 | Python | 7,599 | 413 | 1,245 | 21 |
 | Css | 6,762 | 646 | 1,094 | 30 |
@@ -32,26 +32,26 @@ Total: **183,257** lines of code across **903** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.2-beta.2` (2026-08-25)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 27,011 · **Forks**: 2,583 · **Open issues**: 396 · **Contributors**: 39
+- **Stars**: 27,073 · **Forks**: 2,588 · **Open issues**: 399 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 84 · **Open PRs**: 570 · **Closed issues**: 152 · **Open issues**: 244 · **Commits**: 42
+- **Releases**: 17 · **Merged PRs**: 87 · **Open PRs**: 569 · **Closed issues**: 154 · **Open issues**: 245 · **Commits**: 45
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 17 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for TencentDB-Agent-Memory lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:43Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:26:17Z._
