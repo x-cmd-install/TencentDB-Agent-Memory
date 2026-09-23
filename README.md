@@ -4,7 +4,7 @@
 
 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 
-[![x-cmd/install — TencentDB-Agent-Memory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/TencentDB-Agent-Memory.svg)](https://x-cmd.com/install/TencentDB-Agent-Memory)
+[![x-cmd/install — TencentDB-Agent-Memory Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/TencentDB-Agent-Memory.svg)](https://x-cmd.com/install/TencentDB-Agent-Memory)
 
 ## Install
 
@@ -31,27 +31,27 @@ Total: **183,307** lines of code across **903** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.2-beta.3` (2026-08-25)
+- **Latest**: `v1.0.3` (2026-08-25)
 - **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 27,123 · **Forks**: 2,598 · **Open issues**: 400 · **Contributors**: 41
+- **Stars**: 27,176 · **Forks**: 2,606 · **Open issues**: 400 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 88 · **Open PRs**: 574 · **Closed issues**: 154 · **Open issues**: 246 · **Commits**: 46
+- **Releases**: 19 · **Merged PRs**: 88 · **Open PRs**: 586 · **Closed issues**: 154 · **Open issues**: 246 · **Commits**: 46
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for TencentDB-Agent-Memory lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:20:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:30:35Z._

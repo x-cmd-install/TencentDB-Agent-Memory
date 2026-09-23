@@ -4,7 +4,7 @@
 
 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 
-[![x-cmd/install — TencentDB-Agent-Memory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/TencentDB-Agent-Memory.svg?lang=zh)](https://x-cmd.com/install/TencentDB-Agent-Memory)
+[![x-cmd/install — TencentDB-Agent-Memory Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/TencentDB-Agent-Memory.svg?lang=zh)](https://x-cmd.com/install/TencentDB-Agent-Memory)
 
 ## 安装
 
@@ -31,27 +31,27 @@ x install TencentDB-Agent-Memory
 
 ## 发布
 
-- **最新版本**: `v2.0.2-beta.3` (2026-08-25)
+- **最新版本**: `v1.0.3` (2026-08-25)
 - **最近提交**: 2026-09-21
 
 ## 流行度
 
-- **Star**: 27,123 · **Fork**: 2,598 · **开放 issue**: 400 · **贡献者**: 41
+- **Star**: 27,176 · **Fork**: 2,606 · **开放 issue**: 400 · **贡献者**: 41
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 88 · **开放 PR**: 574 · **已关闭 issue**: 154 · **开放 issue**: 246 · **提交数**: 46
+- **发布数**: 19 · **已合并 PR**: 88 · **开放 PR**: 586 · **已关闭 issue**: 154 · **开放 issue**: 246 · **提交数**: 46
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ TencentDB-Agent-Memory 的安装元数据由 [x-cmd/install](https://github.com/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:20:32Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:30:36Z._
