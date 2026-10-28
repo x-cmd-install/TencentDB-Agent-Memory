@@ -33,26 +33,26 @@ Total: **209,491** lines of code across **1086** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.3` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 30,000 · **Forks**: 2,913 · **Open issues**: 515 · **Contributors**: 51
+- **Stars**: 30,040 · **Forks**: 2,917 · **Open issues**: 516 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 117 · **Open PRs**: 597 · **Closed issues**: 205 · **Open issues**: 310 · **Commits**: 72
+- **Releases**: 22 · **Merged PRs**: 118 · **Open PRs**: 594 · **Closed issues**: 205 · **Open issues**: 311 · **Commits**: 73
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 22 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for TencentDB-Agent-Memory lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:13:41Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:59:33Z._
