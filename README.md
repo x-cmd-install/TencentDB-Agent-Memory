@@ -14,13 +14,13 @@ x install TencentDB-Agent-Memory
 
 ## Code insight
 
-Total: **209,491** lines of code across **1086** files in the top 5 languages.
+Total: **209,865** lines of code across **1088** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 164,519 | 48,794 | 19,857 | 904 |
+| TypeScript | 164,749 | 48,802 | 19,882 | 905 |
 | Tsx | 16,670 | 2,010 | 960 | 95 |
-| Python | 7,947 | 454 | 1,292 | 22 |
+| Python | 7,991 | 454 | 1,301 | 23 |
 | Css | 7,009 | 680 | 1,123 | 29 |
 | Sh | 6,726 | 1,340 | 1,010 | 36 |
 
@@ -37,22 +37,22 @@ Total: **209,491** lines of code across **1086** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,040 · **Forks**: 2,917 · **Open issues**: 516 · **Contributors**: 51
+- **Stars**: 30,076 · **Forks**: 2,918 · **Open issues**: 516 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 118 · **Open PRs**: 594 · **Closed issues**: 205 · **Open issues**: 311 · **Commits**: 73
+- **Releases**: 22 · **Merged PRs**: 121 · **Open PRs**: 574 · **Closed issues**: 207 · **Open issues**: 309 · **Commits**: 76
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-30 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-01 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-02 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-07 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-29 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-31 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-02 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-03 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-08 | 22 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for TencentDB-Agent-Memory lives in the [x-cmd/install](https:/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:59:33Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:59:45Z._
